@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @UNITY/Raj
-- 👀 I’m interested in Gaming,Discord.js,BruteForce
+- 👀 I’m interested in Game dev, Discord.js, BruteForce
 - 🌱 I’m currently learning java script ...
 - 💞️ I’m looking to collaborate on no where ...
-- 📫 How to reach me discord: UNITY#4582 || 
+- 📫 How to reach me?
+- Discord: UNITY#4582
+- Email: message@rajmaskey.ml
+- Discord server: https://discord.gg/3hKfQ4atpa
 
 
 ![#center](https://github-readme-stats.vercel.app/api/top-langs/?username=UNITY002&layout=compact)
