@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UNITY
-- 👀 I’m interested in Selfdeployed web applications, discord.js(yes srsly), Docker, Whitehat😏 and literally too many..
+- 👀 I’m interested in Selfdeployed web applications, discord.js(yes srsly), Docker, Whitehat🙄 and literally too many..
 - 🌱 I’m currently learning  frondend/backend, cloudnetworking...
 - 💞️ I'm active in internet and people now me as unity;
 - 📫 How to reach me?
