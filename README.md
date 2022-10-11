@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @UNITY
-- 👀 I’m interested in Selfdeployed web applications, discord.js(yes srsly), Docker, Whitehat🙄 and literally too many..
-- 🌱 I’m currently learning  frondend/backend, cloudnetworking...
+- 👀 I’m interested in OpenSource❤️, discord.js🏴, Docker, and more
+- 🌱 I’m currently learning  frondend/backend, Ruby, cloudnetworking and a bit of python
 - 💞️ I'm active in internet and people know me as unity;
 - 📫 How to reach me?
-- Discord: UNITY#2510
-- Email: message@rajmaskey.tk
+- Discord: UNITY#5024
+- Email: contact@rajmaskey.dev
 - Discord server: https://discord.gg/3hKfQ4atpa
 - Twitter: UNITY009 (Just send me a dm)
 - 
