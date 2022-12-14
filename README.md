@@ -1,6 +1,6 @@
  Hi! I'm Raj
 
-![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rajmaskey&color=blueviolet&style=flat-square)
 
 I am a System Admin, entrepreneur and a passionate developer based in Nepal. I enjoy eating cheese and bring joy to people's lives. I would love to hear your thoughts and ideas. Contact me at: contact@rajmaskey.dev  
 
